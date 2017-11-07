@@ -1,0 +1,43 @@
+$color_red: red;
+$color_black: black;
+$color_yellow: yellow;
+// Header & footer bg 
+$color_header_bg: rgb(19, 115, 170);
+$color_header_bg_opacity1: rgba(52, 73, 94, 0.75);
+$color_white: white;
+$color_white_opacity1:rgba(255, 255, 255, 0.9);
+// Amazon orange 
+$color_orange_bg: rgb(254, 153, 0);
+// Body background
+$color_body_bg: rgba(0, 0, 0, 0.08);
+//
+$color_footer_icons: rgba(255, 255, 255, 0.75);
+$color_footer_icons_hover: white;
+$color_footer_seperator: rgba(255, 255, 255, 0.05);
+// form
+$color_form_border: rgba(0, 0, 0, .15);
+// item
+$color_thumbnails_hover: #00ccff;
+$color_thumbnails_image: #555555;
+$color_thumbnails_preview: #444444;
+$color_product_title: #3e3e3e;
+$color_bg_blue: rgb(51, 122, 183);
+$color_border-blue: rgb(46, 109, 164);
+$color_boxShadow_black: rgba(50, 50, 93, 0.2);
+// products
+$color_product_summary_box_shadow: 0 4px 6px rgba(50, 50, 93, 0.2),
+0 1px 3px rgba(0, 0, 0, 0.2);
+$color_product_summary_box_shadow_hover: 0 4px 25px rgba(50, 50, 93, .2),
+0 1px 25px rgba(0, 0, 0, .2);
+$color_border_summary_border: 1px solid rgba(0, 0, 0, 0.35);
+// ribbon
+$color_backGround_ribbon: rgb(191, 220, 122);
+$color_boxShadow_ribbon: rgba(0, 0, 0, 0.3);
+$color_backGround_gradient: to(rgb(245, 239, 23)),
+from(rgb(250, 227, 0));
+// Serachs
+$color_backGround_searches: rgb(84, 84, 84);
+$color_backGround_clear_searches: rgb(255, 255, 255);
+$color_border_searches: rgba(0, 0, 0, 0.25);
+// NAV
+$color_border_nav:rgba(255, 255, 255, 0.75);

@@ -1,0 +1,210 @@
+// 20171013183635
+// http://localhost:3000/searchItem
+
+[{
+  "ASIN": [
+    "B071VZKDDP"
+  ],
+  "ParentASIN": [
+    "B07212SN34"
+  ],
+  "DetailPageURL": [
+    "https://www.amazon.com/Nokia-Unlocked-T-Mobile-Exclusive-Lockscreen/dp/B071VZKDDP?psc=1&SubscriptionId=AKIAIGPXP7LQ6BFJSBEQ&tag=testabc044-20&linkCode=xm2&camp=2025&creative=165953&creativeASIN=B071VZKDDP"
+  ],
+  "ItemLinks": [{
+    "ItemLink": [{
+        "Description": [
+          "Technical Details"
+        ],
+        "URL": [
+          "https://www.amazon.com/Nokia-Unlocked-T-Mobile-Exclusive-Lockscreen/dp/tech-data/B071VZKDDP?SubscriptionId=AKIAIGPXP7LQ6BFJSBEQ&tag=testabc044-20&linkCode=xm2&camp=2025&creative=386001&creativeASIN=B071VZKDDP"
+        ]
+      },
+      {
+        "Description": [
+          "Add To Baby Registry"
+        ],
+        "URL": [
+          "https://www.amazon.com/gp/registry/baby/add-item.html?asin.0=B071VZKDDP&SubscriptionId=AKIAIGPXP7LQ6BFJSBEQ&tag=testabc044-20&linkCode=xm2&camp=2025&creative=386001&creativeASIN=B071VZKDDP"
+        ]
+      },
+      {
+        "Description": [
+          "Add To Wedding Registry"
+        ],
+        "URL": [
+          "https://www.amazon.com/gp/registry/wedding/add-item.html?asin.0=B071VZKDDP&SubscriptionId=AKIAIGPXP7LQ6BFJSBEQ&tag=testabc044-20&linkCode=xm2&camp=2025&creative=386001&creativeASIN=B071VZKDDP"
+        ]
+      },
+      {
+        "Description": [
+          "Add To Wishlist"
+        ],
+        "URL": [
+          "https://www.amazon.com/gp/registry/wishlist/add-item.html?asin.0=B071VZKDDP&SubscriptionId=AKIAIGPXP7LQ6BFJSBEQ&tag=testabc044-20&linkCode=xm2&camp=2025&creative=386001&creativeASIN=B071VZKDDP"
+        ]
+      },
+      {
+        "Description": [
+          "Tell A Friend"
+        ],
+        "URL": [
+          "https://www.amazon.com/gp/pdp/taf/B071VZKDDP?SubscriptionId=AKIAIGPXP7LQ6BFJSBEQ&tag=testabc044-20&linkCode=xm2&camp=2025&creative=386001&creativeASIN=B071VZKDDP"
+        ]
+      },
+      {
+        "Description": [
+          "All Customer Reviews"
+        ],
+        "URL": [
+          "https://www.amazon.com/review/product/B071VZKDDP?SubscriptionId=AKIAIGPXP7LQ6BFJSBEQ&tag=testabc044-20&linkCode=xm2&camp=2025&creative=386001&creativeASIN=B071VZKDDP"
+        ]
+      },
+      {
+        "Description": [
+          "All Offers"
+        ],
+        "URL": [
+          "https://www.amazon.com/gp/offer-listing/B071VZKDDP?SubscriptionId=AKIAIGPXP7LQ6BFJSBEQ&tag=testabc044-20&linkCode=xm2&camp=2025&creative=386001&creativeASIN=B071VZKDDP"
+        ]
+      }
+    ]
+  }],
+  "ItemAttributes": [{
+    "Binding": [
+      "Wireless Phone Accessory"
+    ],
+    "Brand": [
+      "Nokia mobile"
+    ],
+    "Color": [
+      "Black"
+    ],
+    "EAN": [
+      "6438409005977"
+    ],
+    "EANList": [{
+      "EANListElement": [
+        "6438409005977"
+      ]
+    }],
+    "Edition": [
+      "U.S Warranty"
+    ],
+    "Feature": [
+      "Fast 4G LTE speed, 1.4 GHz Qualcomm Snapdragon 430 octa-core processor, 3 GB of RAM, and 32 GB of internal memory with the option to add up to 128 GB of microSD expandable memory",
+      "Brilliant 5.5\" 2.5D full HD display and a Smart Amplifier with 7.2W peak output and Dolby Atmos",
+      "Offers and ads, including personalized deals and recommendations, display on the phone's lockscreen",
+      "16 MP rear-facing and 8 MP front-facing camera with dual-tone flash",
+      "Built-in fingerprint sensor grants you exclusive access to your device",
+      "Enjoy the best of Android 7.1 Nougat with split screen view, Google Play Store, Google Maps, Gmail, and Google Assistant for hands-free voice commands",
+      "Unlocked for freedom to choose your carrier. Compatible with AT&T and T-Mobile networks",
+      "Prime members get unlimited access to Prime movies and TV shows, Prime Music, Prime Photos storage, deals, and more with a pre-installed selection of Amazon apps"
+    ],
+    "ItemDimensions": [{
+      "Height": [{
+        "_": "31",
+        "$": {
+          "Units": "hundredths-inches"
+        }
+      }],
+      "Length": [{
+        "_": "606",
+        "$": {
+          "Units": "hundredths-inches"
+        }
+      }],
+      "Weight": [{
+        "_": "37",
+        "$": {
+          "Units": "hundredths-pounds"
+        }
+      }],
+      "Width": [{
+        "_": "298",
+        "$": {
+          "Units": "hundredths-inches"
+        }
+      }]
+    }],
+    "Label": [
+      "Nokia"
+    ],
+    "ListPrice": [{
+      "Amount": [
+        "22999"
+      ],
+      "CurrencyCode": [
+        "USD"
+      ],
+      "FormattedPrice": [
+        "$229.99"
+      ]
+    }],
+    "Manufacturer": [
+      "Nokia"
+    ],
+    "Model": [
+      "N6B"
+    ],
+    "MPN": [
+      "N6B"
+    ],
+    "NumberOfItems": [
+      "4"
+    ],
+    "OperatingSystem": [
+      "Android 7.1"
+    ],
+    "PackageDimensions": [{
+      "Height": [{
+        "_": "142",
+        "$": {
+          "Units": "hundredths-inches"
+        }
+      }],
+      "Length": [{
+        "_": "630",
+        "$": {
+          "Units": "hundredths-inches"
+        }
+      }],
+      "Weight": [{
+        "_": "75",
+        "$": {
+          "Units": "hundredths-pounds"
+        }
+      }],
+      "Width": [{
+        "_": "551",
+        "$": {
+          "Units": "hundredths-inches"
+        }
+      }]
+    }],
+    "PackageQuantity": [
+      "1"
+    ],
+    "PartNumber": [
+      "N6B"
+    ],
+    "ProductGroup": [
+      "Wireless"
+    ],
+    "ProductTypeName": [
+      "WIRELESS_ACCESSORY"
+    ],
+    "Publisher": [
+      "Nokia"
+    ],
+    "ReleaseDate": [
+      "2017-07-10"
+    ],
+    "Studio": [
+      "Nokia"
+    ],
+    "Title": [
+      "Nokia 6 - 32 GB - Unlocked (AT&T/T-Mobile) - Black - Prime Exclusive - with Lockscreen Offers & Ads"
+    ]
+  }]
+}]

@@ -1,0 +1,28 @@
+.ribbon {
+    position: relative;
+    z-index: 9999;
+}
+
+.ribbon-wrapper {
+    width: 90px;
+    height: 88px;
+    overflow: hidden;
+    position: absolute;
+    top: 0;
+    right: 0;
+}
+
+.ribbon-green {
+    font-size: 18px;
+    font-family: $fonts_Karla;
+    text-align: center;
+    transform: rotate(45deg);
+    position: relative;
+    left: 0;
+    top: 17px;
+    width: 120px;
+    background-color: $color_backGround_ribbon;
+    background-image: -webkit-gradient(linear, left top, left bottom, $color_backGround_gradient);
+    color: rgba(0, 0, 0, 0.75);
+    box-shadow: 0px 0px 3px $color_boxShadow_ribbon;
+}

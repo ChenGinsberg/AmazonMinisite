@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html>
+<%- include('./templates/head') %>
+
+  <body>
+    <%- include('./templates/nav') %>
+      <div class="container">
+        <div class="searches">
+          <div class="searches-desc">
+            Latest searches:
+          </div>
+          <ul class="search-list"></ul>
+        </div>
+        <div class="loader">
+          <div class="loading wave">Loading </div>
+        </div>
+        <div class="wrapper">
+          <div class="products">
+            <h1 class="no-products">Use the search form to search for products</h1>
+          </div>
+        </div>
+      </div>
+      <%- include('./templates/footer') %>
+  </body>
+
+</html>

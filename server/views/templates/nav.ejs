@@ -1,0 +1,23 @@
+<nav class="navbar navbar-light site-nav">
+    <ul class="container ulIcons">
+        <li>
+            <img class="logo" src="/stylesheets/icons/amazon.svg">
+            <img class="access-icon" src="/stylesheets/icons/access.svg">
+            <span class="nav-icons">
+                <a href="/">
+                    <span class="nav-icon home-icon"></span>
+                </a>
+                <span class="nav-icon help-icon" onclick="$('.help-preview').fadeToggle(1500)"></span>
+                <span class="help-preview" onclick="$('.help-preview').fadeToggle(500)">
+                    <img src="images/help.png">
+                </span>
+            </span>
+
+        </li>
+        <li>
+            <%- include('search-form') %>
+        </li>
+    </ul>
+
+    <!-- </div> -->
+</nav>

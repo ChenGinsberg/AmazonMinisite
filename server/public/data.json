@@ -1,0 +1,648 @@
+// 20171005184916
+// http://localhost:3000/search/glass
+[{
+        "ASIN": [
+            "B003WVGMPQ"
+        ],
+        "ParentASIN": [
+            "B01F69Q7CO"
+        ],
+        "DetailPageURL": [
+            "https://www.amazon.com/Home-Essentials-Bubble-Highball-Glass/dp/B003WVGMPQ?psc=1&SubscriptionId=AKIAIGPXP7LQ6BFJSBEQ&tag=testabc044-20&linkCode=xm2&camp=2025&creative=165953&creativeASIN=B003WVGMPQ"
+        ],
+        "ItemLinks": [{
+            "ItemLink": [{
+                    "Description": [
+                        "Technical Details"
+                    ],
+                    "URL": [
+                        "https://www.amazon.com/Home-Essentials-Bubble-Highball-Glass/dp/tech-data/B003WVGMPQ?SubscriptionId=AKIAIGPXP7LQ6BFJSBEQ&tag=testabc044-20&linkCode=xm2&camp=2025&creative=386001&creativeASIN=B003WVGMPQ"
+                    ]
+                },
+                {
+                    "Description": [
+                        "Add To Baby Registry"
+                    ],
+                    "URL": [
+                        "https://www.amazon.com/gp/registry/baby/add-item.html?asin.0=B003WVGMPQ&SubscriptionId=AKIAIGPXP7LQ6BFJSBEQ&tag=testabc044-20&linkCode=xm2&camp=2025&creative=386001&creativeASIN=B003WVGMPQ"
+                    ]
+                },
+                {
+                    "Description": [
+                        "Add To Wedding Registry"
+                    ],
+                    "URL": [
+                        "https://www.amazon.com/gp/registry/wedding/add-item.html?asin.0=B003WVGMPQ&SubscriptionId=AKIAIGPXP7LQ6BFJSBEQ&tag=testabc044-20&linkCode=xm2&camp=2025&creative=386001&creativeASIN=B003WVGMPQ"
+                    ]
+                },
+                {
+                    "Description": [
+                        "Add To Wishlist"
+                    ],
+                    "URL": [
+                        "https://www.amazon.com/gp/registry/wishlist/add-item.html?asin.0=B003WVGMPQ&SubscriptionId=AKIAIGPXP7LQ6BFJSBEQ&tag=testabc044-20&linkCode=xm2&camp=2025&creative=386001&creativeASIN=B003WVGMPQ"
+                    ]
+                },
+                {
+                    "Description": [
+                        "Tell A Friend"
+                    ],
+                    "URL": [
+                        "https://www.amazon.com/gp/pdp/taf/B003WVGMPQ?SubscriptionId=AKIAIGPXP7LQ6BFJSBEQ&tag=testabc044-20&linkCode=xm2&camp=2025&creative=386001&creativeASIN=B003WVGMPQ"
+                    ]
+                },
+                {
+                    "Description": [
+                        "All Customer Reviews"
+                    ],
+                    "URL": [
+                        "https://www.amazon.com/review/product/B003WVGMPQ?SubscriptionId=AKIAIGPXP7LQ6BFJSBEQ&tag=testabc044-20&linkCode=xm2&camp=2025&creative=386001&creativeASIN=B003WVGMPQ"
+                    ]
+                },
+                {
+                    "Description": [
+                        "All Offers"
+                    ],
+                    "URL": [
+                        "https://www.amazon.com/gp/offer-listing/B003WVGMPQ?SubscriptionId=AKIAIGPXP7LQ6BFJSBEQ&tag=testabc044-20&linkCode=xm2&camp=2025&creative=386001&creativeASIN=B003WVGMPQ"
+                    ]
+                }
+            ]
+        }],
+        "SmallImage": [{
+            "URL": [
+                "https://images-na.ssl-images-amazon.com/images/I/51rjJFSKx4L._SL75_.jpg"
+            ],
+            "Height": [{
+                "_": "75",
+                "$": {
+                    "Units": "pixels"
+                }
+            }],
+            "Width": [{
+                "_": "75",
+                "$": {
+                    "Units": "pixels"
+                }
+            }]
+        }],
+        "MediumImage": [{
+            "URL": [
+                "https://images-na.ssl-images-amazon.com/images/I/51rjJFSKx4L._SL160_.jpg"
+            ],
+            "Height": [{
+                "_": "160",
+                "$": {
+                    "Units": "pixels"
+                }
+            }],
+            "Width": [{
+                "_": "160",
+                "$": {
+                    "Units": "pixels"
+                }
+            }]
+        }],
+        "LargeImage": [{
+            "URL": [
+                "https://images-na.ssl-images-amazon.com/images/I/51rjJFSKx4L.jpg"
+            ],
+            "Height": [{
+                "_": "500",
+                "$": {
+                    "Units": "pixels"
+                }
+            }],
+            "Width": [{
+                "_": "500",
+                "$": {
+                    "Units": "pixels"
+                }
+            }]
+        }],
+        "ImageSets": [{
+            "ImageSet": [{
+                    "$": {
+                        "Category": "variant"
+                    },
+                    "SwatchImage": [{
+                        "URL": [
+                            "https://images-na.ssl-images-amazon.com/images/I/41NmmU1vVKL._SL30_.jpg"
+                        ],
+                        "Height": [{
+                            "_": "30",
+                            "$": {
+                                "Units": "pixels"
+                            }
+                        }],
+                        "Width": [{
+                            "_": "30",
+                            "$": {
+                                "Units": "pixels"
+                            }
+                        }]
+                    }],
+                    "SmallImage": [{
+                        "URL": [
+                            "https://images-na.ssl-images-amazon.com/images/I/41NmmU1vVKL._SL75_.jpg"
+                        ],
+                        "Height": [{
+                            "_": "75",
+                            "$": {
+                                "Units": "pixels"
+                            }
+                        }],
+                        "Width": [{
+                            "_": "75",
+                            "$": {
+                                "Units": "pixels"
+                            }
+                        }]
+                    }],
+                    "ThumbnailImage": [{
+                        "URL": [
+                            "https://images-na.ssl-images-amazon.com/images/I/41NmmU1vVKL._SL75_.jpg"
+                        ],
+                        "Height": [{
+                            "_": "75",
+                            "$": {
+                                "Units": "pixels"
+                            }
+                        }],
+                        "Width": [{
+                            "_": "75",
+                            "$": {
+                                "Units": "pixels"
+                            }
+                        }]
+                    }],
+                    "TinyImage": [{
+                        "URL": [
+                            "https://images-na.ssl-images-amazon.com/images/I/41NmmU1vVKL._SL110_.jpg"
+                        ],
+                        "Height": [{
+                            "_": "110",
+                            "$": {
+                                "Units": "pixels"
+                            }
+                        }],
+                        "Width": [{
+                            "_": "110",
+                            "$": {
+                                "Units": "pixels"
+                            }
+                        }]
+                    }],
+                    "MediumImage": [{
+                        "URL": [
+                            "https://images-na.ssl-images-amazon.com/images/I/41NmmU1vVKL._SL160_.jpg"
+                        ],
+                        "Height": [{
+                            "_": "160",
+                            "$": {
+                                "Units": "pixels"
+                            }
+                        }],
+                        "Width": [{
+                            "_": "160",
+                            "$": {
+                                "Units": "pixels"
+                            }
+                        }]
+                    }],
+                    "LargeImage": [{
+                        "URL": [
+                            "https://images-na.ssl-images-amazon.com/images/I/41NmmU1vVKL.jpg"
+                        ],
+                        "Height": [{
+                            "_": "500",
+                            "$": {
+                                "Units": "pixels"
+                            }
+                        }],
+                        "Width": [{
+                            "_": "500",
+                            "$": {
+                                "Units": "pixels"
+                            }
+                        }]
+                    }]
+                },
+                {
+                    "$": {
+                        "Category": "primary"
+                    },
+                    "SwatchImage": [{
+                        "URL": [
+                            "https://images-na.ssl-images-amazon.com/images/I/51rjJFSKx4L._SL30_.jpg"
+                        ],
+                        "Height": [{
+                            "_": "30",
+                            "$": {
+                                "Units": "pixels"
+                            }
+                        }],
+                        "Width": [{
+                            "_": "30",
+                            "$": {
+                                "Units": "pixels"
+                            }
+                        }]
+                    }],
+                    "SmallImage": [{
+                        "URL": [
+                            "https://images-na.ssl-images-amazon.com/images/I/51rjJFSKx4L._SL75_.jpg"
+                        ],
+                        "Height": [{
+                            "_": "75",
+                            "$": {
+                                "Units": "pixels"
+                            }
+                        }],
+                        "Width": [{
+                            "_": "75",
+                            "$": {
+                                "Units": "pixels"
+                            }
+                        }]
+                    }],
+                    "ThumbnailImage": [{
+                        "URL": [
+                            "https://images-na.ssl-images-amazon.com/images/I/51rjJFSKx4L._SL75_.jpg"
+                        ],
+                        "Height": [{
+                            "_": "75",
+                            "$": {
+                                "Units": "pixels"
+                            }
+                        }],
+                        "Width": [{
+                            "_": "75",
+                            "$": {
+                                "Units": "pixels"
+                            }
+                        }]
+                    }],
+                    "TinyImage": [{
+                        "URL": [
+                            "https://images-na.ssl-images-amazon.com/images/I/51rjJFSKx4L._SL110_.jpg"
+                        ],
+                        "Height": [{
+                            "_": "110",
+                            "$": {
+                                "Units": "pixels"
+                            }
+                        }],
+                        "Width": [{
+                            "_": "110",
+                            "$": {
+                                "Units": "pixels"
+                            }
+                        }]
+                    }],
+                    "MediumImage": [{
+                        "URL": [
+                            "https://images-na.ssl-images-amazon.com/images/I/51rjJFSKx4L._SL160_.jpg"
+                        ],
+                        "Height": [{
+                            "_": "160",
+                            "$": {
+                                "Units": "pixels"
+                            }
+                        }],
+                        "Width": [{
+                            "_": "160",
+                            "$": {
+                                "Units": "pixels"
+                            }
+                        }]
+                    }],
+                    "LargeImage": [{
+                        "URL": [
+                            "https://images-na.ssl-images-amazon.com/images/I/51rjJFSKx4L.jpg"
+                        ],
+                        "Height": [{
+                            "_": "500",
+                            "$": {
+                                "Units": "pixels"
+                            }
+                        }],
+                        "Width": [{
+                            "_": "500",
+                            "$": {
+                                "Units": "pixels"
+                            }
+                        }]
+                    }],
+                    "HiResImage": [{
+                        "URL": [
+                            "https://images-na.ssl-images-amazon.com/images/I/71vvb8CxZEL.jpg"
+                        ],
+                        "Height": [{
+                            "_": "1200",
+                            "$": {
+                                "Units": "pixels"
+                            }
+                        }],
+                        "Width": [{
+                            "_": "1200",
+                            "$": {
+                                "Units": "pixels"
+                            }
+                        }]
+                    }]
+                }
+            ]
+        }],
+        "ItemAttributes": [{
+            "Binding": [
+                "Kitchen"
+            ],
+            "Brand": [
+                "Home Essentials"
+            ],
+            "CatalogNumberList": [{
+                "CatalogNumberListElement": [
+                    "WSA-069",
+                    "TA1642"
+                ]
+            }],
+            "Color": [
+                "Clear"
+            ],
+            "EAN": [
+                "0786460005921"
+            ],
+            "EANList": [{
+                "EANListElement": [
+                    "0786460005921"
+                ]
+            }],
+            "Feature": [
+                "SET OF 4",
+                "MADE OF FINE GLASS MATERIAL",
+                "17 Ounce"
+            ],
+            "ItemDimensions": [{
+                "Weight": [{
+                    "_": "17",
+                    "$": {
+                        "Units": "ounces"
+                    }
+                }]
+            }],
+            "Label": [
+                "Home Essentials"
+            ],
+            "ListPrice": [{
+                "Amount": [
+                    "1500"
+                ],
+                "CurrencyCode": [
+                    "USD"
+                ],
+                "FormattedPrice": [
+                    "$15.00"
+                ]
+            }],
+            "Manufacturer": [
+                "Home Essentials"
+            ],
+            "Model": [
+                "592"
+            ],
+            "MPN": [
+                "WSA-069"
+            ],
+            "NumberOfItems": [
+                "1"
+            ],
+            "PackageDimensions": [{
+                "Height": [{
+                    "_": "402",
+                    "$": {
+                        "Units": "hundredths-inches"
+                    }
+                }],
+                "Length": [{
+                    "_": "1299",
+                    "$": {
+                        "Units": "hundredths-inches"
+                    }
+                }],
+                "Weight": [{
+                    "_": "445",
+                    "$": {
+                        "Units": "hundredths-pounds"
+                    }
+                }],
+                "Width": [{
+                    "_": "752",
+                    "$": {
+                        "Units": "hundredths-inches"
+                    }
+                }]
+            }],
+            "PackageQuantity": [
+                "1"
+            ],
+            "PartNumber": [
+                "WSA-069"
+            ],
+            "ProductGroup": [
+                "Home"
+            ],
+            "ProductTypeName": [
+                "KITCHEN"
+            ],
+            "Publisher": [
+                "Home Essentials"
+            ],
+            "Size": [
+                "Set of 4"
+            ],
+            "Studio": [
+                "Home Essentials"
+            ],
+            "Title": [
+                "Home Essentials Red Series Bubble 17oz Highball Glass, Set of 4"
+            ],
+            "UPC": [
+                "786460005921"
+            ],
+            "UPCList": [{
+                "UPCListElement": [
+                    "786460005921"
+                ]
+            }]
+        }],
+        "OfferSummary": [{
+            "LowestNewPrice": [{
+                "Amount": [
+                    "1305"
+                ],
+                "CurrencyCode": [
+                    "USD"
+                ],
+                "FormattedPrice": [
+                    "$13.05"
+                ]
+            }],
+            "LowestUsedPrice": [{
+                "Amount": [
+                    "1128"
+                ],
+                "CurrencyCode": [
+                    "USD"
+                ],
+                "FormattedPrice": [
+                    "$11.28"
+                ]
+            }],
+            "TotalNew": [
+                "19"
+            ],
+            "TotalUsed": [
+                "1"
+            ],
+            "TotalCollectible": [
+                "0"
+            ],
+            "TotalRefurbished": [
+                "0"
+            ]
+        }],
+        "Offers": [{
+            "TotalOffers": [
+                "2"
+            ],
+            "TotalOfferPages": [
+                "1"
+            ],
+            "MoreOffersUrl": [
+                "https://www.amazon.com/gp/offer-listing/B003WVGMPQ?SubscriptionId=AKIAIGPXP7LQ6BFJSBEQ&tag=testabc044-20&linkCode=xm2&camp=2025&creative=386001&creativeASIN=B003WVGMPQ"
+            ],
+            "Offer": [{
+                    "Merchant": [{
+                        "Name": [
+                            "What A Deals"
+                        ]
+                    }],
+                    "OfferAttributes": [{
+                        "Condition": [
+                            "New"
+                        ]
+                    }],
+                    "OfferListing": [{
+                        "OfferListingId": [
+                            "mkg13X%2FzDcEl%2B116oZe5VIPDNMj7Dkz53jYtXVM%2FQVosrWa4AyLRLaVS3okrSWJ7Od1W1VyCFIeAeKBdJrqZ0OHYIcOc72rvU2ti%2F04LO4YkQ1dPWbCGpMw8z3Z3HUVUfe0oNbME4KzTRhUI8pL%2F4I5iRmSO6I%2BW"
+                        ],
+                        "Price": [{
+                            "Amount": [
+                                "1305"
+                            ],
+                            "CurrencyCode": [
+                                "USD"
+                            ],
+                            "FormattedPrice": [
+                                "$13.05"
+                            ]
+                        }],
+                        "AmountSaved": [{
+                            "Amount": [
+                                "195"
+                            ],
+                            "CurrencyCode": [
+                                "USD"
+                            ],
+                            "FormattedPrice": [
+                                "$1.95"
+                            ]
+                        }],
+                        "PercentageSaved": [
+                            "13"
+                        ],
+                        "AvailabilityAttributes": [{
+                            "AvailabilityType": [
+                                "futureDate"
+                            ],
+                            "MinimumHours": [
+                                "0"
+                            ],
+                            "MaximumHours": [
+                                "0"
+                            ]
+                        }],
+                        "IsEligibleForSuperSaverShipping": [
+                            "1"
+                        ],
+                        "IsEligibleForPrime": [
+                            "1"
+                        ]
+                    }]
+                },
+                {
+                    "Merchant": [{
+                        "Name": [
+                            "Amazon Warehouse Deals"
+                        ]
+                    }],
+                    "OfferAttributes": [{
+                        "Condition": [
+                            "Used"
+                        ]
+                    }],
+                    "OfferListing": [{
+                        "OfferListingId": [
+                            "mkg13X%2FzDcEl%2B116oZe5VIPDNMj7Dkz5GvlFy6bnLid8%2Bn5LBlcZue7mBuscxgXmhKAh42NWdEFyQLHVwHixYEHe4MmFzZuvWHSmNlPK8pCQKUSnLazzXLl0%2BF1%2FpTEB%2BV4HlUpJ2mOyyVEZB9L38bNv8WxZMnE%2F"
+                        ],
+                        "Price": [{
+                            "Amount": [
+                                "1128"
+                            ],
+                            "CurrencyCode": [
+                                "USD"
+                            ],
+                            "FormattedPrice": [
+                                "$11.28"
+                            ]
+                        }],
+                        "AmountSaved": [{
+                            "Amount": [
+                                "372"
+                            ],
+                            "CurrencyCode": [
+                                "USD"
+                            ],
+                            "FormattedPrice": [
+                                "$3.72"
+                            ]
+                        }],
+                        "PercentageSaved": [
+                            "25"
+                        ],
+                        "Availability": [
+                            "Usually ships in 24 hours"
+                        ],
+                        "AvailabilityAttributes": [{
+                            "AvailabilityType": [
+                                "now"
+                            ],
+                            "MinimumHours": [
+                                "0"
+                            ],
+                            "MaximumHours": [
+                                "0"
+                            ]
+                        }],
+                        "IsEligibleForSuperSaverShipping": [
+                            "1"
+                        ],
+                        "IsEligibleForPrime": [
+                            "1"
+                        ]
+                    }]
+                }
+            ]
+        }]
+    },

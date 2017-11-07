@@ -1,0 +1,39 @@
+<div class="row justify-content-md-center">
+    <% if ( !results) {
+    %>
+        <h1>No products</h1>
+        <%
+}
+
+else {
+    %>
+            <!-- Product details -->
+            <div class="col-12 col-md-8 col-lg-6">
+                <div class="item-summary">
+                    <div class="ribbon-wrapper item-ribbon">
+                        <div class="ribbon-green">
+                            <%=results[0].ItemAttributes[0].ListPrice && results[0].ItemAttributes[0].ListPrice[0].FormattedPrice[0] %>
+                        </div>
+                    </div>
+                    <!-- Prodcut image -->
+                    <div class="product-image-container">
+                        <img class="product-image" src="<%= results[0].LargeImage[0].URL %>">
+                        <img class="product-image" src="<%= results[0].ImageSets[0].ImageSet[0].LargeImage[0].URL %>">
+                    </div>
+                    <hr>
+                    <!-- Product description -->
+                    <!-- <div class=""><%=results[0].ItemLinks[0].ItemLink[0].Description[5] %></div>-->
+                    <div>
+                        <div class="item-desc">
+                            <%=results[0].ItemAttributes[0].Title[0] %>
+                                <hr>
+                                <%=results[0].ItemAttributes[0].Feature && results[0].ItemAttributes[0].Feature[0] %>
+                                    <hr/>
+                                    <a href="<%= results[0].Offers && results[0].Offers[0].MoreOffersUrl[0] %>" class="btn btn-primary item-more-deals">More Deals</a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <%
+} //else %>
+</div>

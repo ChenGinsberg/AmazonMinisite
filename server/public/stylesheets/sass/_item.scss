@@ -1,0 +1,68 @@
+// ** item ** 
+.preview img {
+    border: 1px solid $color_thumbnails_preview;
+    padding: 1px;
+    border-radius: 3px;
+    background: $color_white;
+    text-align: center;
+    box-shadow: 0 4px 6px $color_boxShadow_black, 0 1px 3px rgba(0, 0, 0, 0.2);
+    font-family: $fonts_Karla;
+    margin: 5px 0;
+    opacity: 0.85;
+    width: 20%;
+    height: 20%;
+}
+
+.product-description {
+    font-family: $fonts_Karla;
+}
+
+.thumbnails img {
+    border: 1px solid $color_thumbnails_image;
+    padding: 1px;
+    margin: 0 10px 10px 0;
+    transition: all 0.5s;
+    box-shadow: 1.2px 1.5px $color_thumbnails_image;
+}
+
+.thumbnails img:hover {
+    border: 4px solid $color_thumbnails_hover;
+    cursor: pointer;
+}
+
+.item-summary {
+    border-radius: 25px;
+    background: $color_white;
+    text-align: center;
+    box-shadow: $color_product_summary_box_shadow;
+    font-family: $fonts_Karla;
+    margin: 3px 0 5px 0;
+    padding: 25px;
+    transition: all 0.5s;
+    opacity: 0.95;
+    border: $color_border_summary_border;
+}
+
+.item-desc {
+    font-size: 14px;
+    font-weight: bold;
+    line-height: 16px;
+    padding: 0 25px;
+    text-align: left;
+    font-family: $fonts_Karla;
+    color: $color_product_title;
+}
+
+.item-more-deals {
+    color: $color_white;
+    background-color: $color_bg_blue;
+    border-color: $color_border-blue;
+    width: 50%;
+    margin: 0 25%;
+}
+
+.item-ribbon {
+    top: 4px;
+    right: 16px;
+    font-size: 18px;
+}

@@ -1,0 +1,49 @@
+<% if ( !results) {
+    %>
+    <h1>Use the search form to search for products</h1>
+    <%
+}
+
+else {
+    // Get the lower number between the search results and the max number 
+    // of items we wish to display. If the search will return less than 8 
+    // items we want to display those items only 
+    var itemsCounter=Math.min( results.length, 8);
+    %>
+        <div class="row">
+            <% // Loop over the prodcuts and build up the view
+    for (var index=0;
+    index< itemsCounter;
+    index++) {
+        // cache the current product for better performance
+        var product=results[index];
+        %>
+                <!-- Product details -->
+                <div class="col-12 col-sm-12 col-md-6 col-lg-3 col-xl-3 small-padding">
+                    <div class="product-summary" data-ASIN="<%= product.ASIN %>" data-index="<%= index %>">
+                        <div class="ribbon">
+                            <div class="ribbon-wrapper">
+                                <div class="ribbon-green">
+                                    <%=product.ItemAttributes[0].ListPrice && product.ItemAttributes[0].ListPrice[0].FormattedPrice[0] %>
+                                </div>
+                            </div>
+                        </div>
+                        <!-- Prodcut image -->
+                        <div class="product-image-container">
+                            <img class="product-image" src="<%= product.LargeImage && product.LargeImage[0].URL %>">
+                        </div>
+                        <hr>
+                        <!-- Product description -->
+                        <!-- <div class=""><%=product.ItemLinks[0].ItemLink[0].Description[0] %></div>-->
+                        <div>
+                            <div class="product-title truncate">
+                                <%=product.ItemAttributes[0].Title[0] %>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <%
+    } //for %>
+        </div>
+        <%
+} //else %>

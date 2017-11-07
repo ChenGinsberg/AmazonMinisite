@@ -1,0 +1,96 @@
+/** footer */
+
+footer {
+    background: $color_header_bg;
+    border-radius: 0;
+    border-top: 1px solid $color_white;
+    color: $color_white;
+    position: absolute;
+    right: 0;
+    bottom: 0;
+    left: 0;
+    padding: 1rem;
+    text-align: center;
+    height: 100px;
+}
+
+.footer-strip {
+    height: 40px;
+}
+
+
+/* Footer left */
+
+.footer-left {
+    float: left;
+}
+
+
+/* Footer Right */
+
+.footer-right {
+    float: right;
+}
+
+.footer-right p {
+    display: inline-block;
+    vertical-align: top;
+    margin: 15px 42px 0 0;
+    color: $color_white;
+}
+
+.footer-title {
+    border-top: 1px solid $color_footer_seperator;
+    color: $color_white;
+    font-weight: normal;
+    font-family: $fonts_Karla;
+    padding: 3px;
+    font-size: 12px;
+}
+
+.footer-links {
+    list-style: none;
+}
+
+.footer-links li {
+    float: left;
+    margin: 0 5px;
+    transition: all 0.5s;
+}
+
+.footer-links li:hover {
+    border-radius: 3px;
+}
+
+.footer-link-icon {
+    -webkit-mask-size: cover;
+    width: 30px;
+    height: 30px;
+    transition: all 0.5s;
+    background: $color_footer_icons;
+    cursor: pointer;
+}
+
+.footer-link-icon:hover {
+    background: $color_footer_icons_hover;
+}
+
+.footer-link-icon-facebook {
+    -webkit-mask-image: url('/stylesheets/icons/facebook.svg');
+}
+
+.footer-link-icon-github {
+    -webkit-mask-image: url('/stylesheets/icons/github.svg');
+}
+
+.footer-link-icon-linkedin {
+    -webkit-mask-image: url('/stylesheets/icons/linkedin.svg');
+}
+
+.footer-left {
+    float: left;
+}
+
+.footer-right {
+    float: right;
+}
